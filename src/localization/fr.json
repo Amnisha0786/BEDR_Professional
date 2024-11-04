@@ -1,0 +1,25 @@
+{
+  "translation": {
+    "logIn": "Se connecter",
+    "welcomeToBookAnEyeDoctor": "Bienvenue sur Réservez un ophtalmologiste",
+    "authTitle": "Révolutionner les soins oculaires. Donner du pouvoir aux patients et aux professionnels.",
+    "authSubTitle":"Entrez vos coordonnées pour vous connecter à votre compte.",
+    "loginAs":"Se connecter en tant que",
+    "emailAddress":"Adresse e-mail",
+    "forgotPassword": "Mot de passe oublié?",
+    "dontHaveAnAccount": "Vous n'avez pas de compte ?",
+    "registerNow":"S'inscrire maintenant",
+    "loginHead":"BEDR | Login",
+    "selectPractices":"Sélectionnez Pratique",
+    "next":"Suivant",
+    "forgotPasswordHead":"BEDR | Mot de passe oublié",
+    "forgotPasswordSubTitle":"Ne t'inquiète pas! Remplissez votre email et nous vous enverrons le lien vers réinitialisez votre mot de passe.",
+    "resetAs":"Réinitialiser comme",
+    "sendMail":"Envoyer un e-mail",
+    "backTo":"Back to",
+    "loginNow":"Login now",
+
+    "forgotPasswordWithoutQuestion":"Mot de passe oublié",
+    "password":"Mot de passe"
+  }
+}
