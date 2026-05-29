@@ -60,13 +60,10 @@ Professional Panel
 
 <img width="1848" height="867" alt="image" src="https://github.com/user-attachments/assets/272c43f3-715d-4dcb-b0f2-336f8be5b7ad" />4
 
+
 Patient Panel 
 
 <img width="1847" height="890" alt="image" src="https://github.com/user-attachments/assets/01a0dd7f-2c91-4484-9c0d-2999bf4c6080" />
-
-Admin Panel
-
-<img width="480" height="301" alt="image" src="https://github.com/user-attachments/assets/a42c031a-056f-4d07-ba26-915a0cf00a01" />
 
 
 ## My Contributions
