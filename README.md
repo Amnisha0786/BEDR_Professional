@@ -49,6 +49,8 @@ The application includes multiple interconnected panels:
 * Stripe
 * REST APIs
 * RSA Encryption
+* PostgreSQL
+* Node.js
 
 ---
 
@@ -121,8 +123,7 @@ npm run dev
 
 ---
 
-## Live Demo
-
-Add deployed project link here.
+Portfolio Overview:
+[Diligentic BEDR Portfolio](https://diligentic.ca/portfolio/book-an-eye-doctor/)
 
 ---
