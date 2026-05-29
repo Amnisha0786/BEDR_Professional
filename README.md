@@ -89,26 +89,6 @@ This project strengthened my expertise in:
 
 ---
 
-## Screenshots
-
-### Doctor Dashboard
-
-![Doctor Dashboard](./screenshots/doctor-dashboard.png)
-
-### Patient Panel
-
-![Patient Panel](./screenshots/patient-panel.png)
-
-### Admin Panel
-
-![Admin Panel](./screenshots/admin-panel.png)
-
-### iPad View
-
-![iPad View](./screenshots/ipad-view.png)
-
----
-
 ## Installation
 
 ```bash
